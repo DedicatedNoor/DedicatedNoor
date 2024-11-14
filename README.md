@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 A skilled JavaScript Developer with extensive experience in creating dynamic, responsive web applications. Adept at both front-end and back-end development, utilizing frameworks like React, Angular, and Node.js to build efficient, scalable solutions. Passionate about clean code, continuous learning, and staying up-to-date with the latest industry trends to deliver top-notch user experiences.
 
 
